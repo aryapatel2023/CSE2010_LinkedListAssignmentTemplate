@@ -1,2 +1,2 @@
-# CSE2010_LinkedListAssignmentTemplate
-Basic linked list assignment (Lab 2)
+# CSE2010 LinkedList Assignment Template
+Basic linked-list assignment (Lab 2)
